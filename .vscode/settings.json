@@ -1,3 +1,13 @@
 {
-  "cSpell.words": ["Pageview"]
+  "cSpell.words": [
+    "cropend",
+    "cropmove",
+    "cropperjs",
+    "cropstart",
+    "dessant",
+    "Pageview",
+    "withtypes",
+    "zoomable"
+  ],
+  "eslint.experimental.useFlatConfig": true
 }
